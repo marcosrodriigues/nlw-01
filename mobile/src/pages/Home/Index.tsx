@@ -130,7 +130,6 @@ const styles = StyleSheet.create({
       justifyContent: 'center',
       textAlign: 'center',
       color: '#FFF',
-      fontFamily: 'Roboto_500Medium',
       fontSize: 16,
     }
   });
