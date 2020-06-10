@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="./.github/banner.png" alt="Ecoleta" width="726px" height="514px" />
+    <img src="./.github/banner.png" alt="Ecoleta" width="100%" />
 </p>
 
 <p align="center">
-  <a href="#projeto" style="margin-right= 16">Projeto</a>
-  <a href="#techs" style="margin-right= 16px;">Tecnologias</a>
-  <a href="#apps">Aplicações</a>
-  <a href="#execute">Execução</a>
+    <a href="#projeto" style="color: black !important;">Projeto</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#techs" style="margin-right= 16px;">Tecnologias</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#apps">Aplicações</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#execute">Execução</a>
 </p>
 
 <span id="projeto"></span>
